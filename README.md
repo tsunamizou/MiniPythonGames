@@ -12,7 +12,7 @@ I recreated these games in Python to **practice my coding skills**, experiment w
    - Play Sudoku in your terminal.  
    - Generates puzzles and checks your solutions.  
 
-2. **Gobang / Five in a Row** (`gobang.py`)  
+2. **Gobang / Five in a Row** (`gobang/main.py`)  
    - Classic Gobang (Five in a Row) game against yourself or a friend.  
    - Simple terminal-based board interface.  
 
